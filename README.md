@@ -1,3 +1,4 @@
+Installing Weston and Waydroid
 1) curl -sSL https://raw.githubusercontent.com/KaanAlper/WaydroidOnX11/refs/heads/main/install.sh | sudo bash
 2) weston --socket=mysocket
 3) sudo waydroid init -f -s GAPPS
